@@ -5,7 +5,7 @@ export default defineConfig({
 	logoUrl: "/tanc-logo.png",
 	topNav: [
 		{ text: "Workshop", link: "/getting-started", match: "/" },
-		{ text: "Customer Portal", link: "https://google.com" },
+		{ text: "Customer Portal", link: "https://management.dlcs-trial.digirati.io/" },
 	],
 	theme: {
 		accentColor: {
