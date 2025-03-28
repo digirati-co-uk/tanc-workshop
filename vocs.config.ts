@@ -31,34 +31,8 @@ export default defineConfig({
 			link: "/examples-of-iiif-to-explore",
 		},
 		{
-			text: "Manifest Editor overview",
-			link: "/manifest-editing",
-		},
-		{
-			text: "Manifest creation",
-			link: "/creating-manifests",
-		},
-		{
-			text: "Exhibition building",
-			link: "/exhibition-building",
-		},
-		{
 			text: "IIIF enabled images",
 			link: "/iiif-enabled-images",
-		},
-		{
-			text: "Manifest Editor Guide",
-			collapsed: false,
-			items: [
-				{
-					link: "/me/getting-started",
-					text: "Getting started",
-				},
-				{
-					link: "/me/adding-resources",
-					text: "Adding resources",
-				},
-			],
 		},
 	],
 });
