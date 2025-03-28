@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+body {
+	/* --vocs-topNav_height: 80px;
+	--vocs-sidebar_width: 400px;
+	--vocs-topNav_horizontalPadding: 5px; */
+}
+
+.vocs_NavLogo_logoImage {
+	height: 40px;
+	width: auto;
+}
+
+.vocs_NavLogo_title {
+	font-size: 1em;
+}
+
+.vocs_HomePage_logo .vocs_Logo {
+	width: auto;
+	height: 80px;
+}
+.vocs_HomePage_logo {
+	margin-bottom: 30px;
+}
