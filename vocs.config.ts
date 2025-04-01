@@ -27,12 +27,13 @@ export default defineConfig({
 			link: "/getting-started",
 		},
 		{
+			text: "Creating IIIF enabled images",
+			link: "/leverage-iiif-for-your-images",
+		},
+		{
 			text: "IIIF content to explore",
 			link: "/examples-of-iiif-to-explore",
 		},
-		{
-			text: "IIIF enabled images",
-			link: "/iiif-enabled-images",
-		},
+		
 	],
 });
