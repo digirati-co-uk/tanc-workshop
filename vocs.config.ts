@@ -34,6 +34,10 @@ export default defineConfig({
 			text: "IIIF Manifests to explore",
 			link: "/examples-of-iiif-to-explore",
 		},
+		{
+			text: "Creating your own IIIF Manifests",
+			link: "/creating-your-own-manifests",
+		},
 		
 	],
 });
