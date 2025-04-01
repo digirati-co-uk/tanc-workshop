@@ -31,7 +31,7 @@ export default defineConfig({
 			link: "/leverage-iiif-for-your-images",
 		},
 		{
-			text: "IIIF content to explore",
+			text: "IIIF Manifests to explore",
 			link: "/examples-of-iiif-to-explore",
 		},
 		
