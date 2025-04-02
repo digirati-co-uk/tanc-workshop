@@ -19,6 +19,10 @@ export default defineConfig({
 	},
 	sidebar: [
 		{
+			text: "Introduction to IIIF",
+			link: "/introduction-to-iiif",
+		},
+		{
 			text: "What you need for the workshop",
 			link: "/what-you-will-need",
 		},
@@ -38,6 +42,12 @@ export default defineConfig({
 			text: "Creating your own IIIF Manifests",
 			link: "/creating-your-own-manifests",
 		},
+		{
+			text: "Next steps",
+			link: "/next-steps",
+		},
+
+		
 		
 	],
 });
